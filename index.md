@@ -86,7 +86,7 @@ Since you already understand that oscillators generate waveforms, let's dive int
 - **Best Used For**: 
   - Powerful lead sounds
   - Rich pad textures
-  - Aggressive bass lines
+  - Aggressive [bass lines](https://www.youtube.com/watch?v=tqMzfspIcgg)
   - String sections
   - Brass instruments
 
