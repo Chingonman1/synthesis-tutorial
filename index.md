@@ -80,7 +80,7 @@ Since you already understand that oscillators generate waveforms, let's dive int
 
 ### The Musical Character of Each Waveform
 
-#### Sawtooth Wave - The Workhorse
+#### [Sawtooth Wave](https://www.youtube.com/watch?v=K3D1fPjWAnc) - The Workhorse
 - **Harmonic Content**: All harmonics (odd and even)
 - **Character**: Bright, buzzy, full-bodied
 - **Best Used For**: 
