@@ -94,7 +94,7 @@ Since you already understand that oscillators generate waveforms, let's dive int
 
 **Iridium Core Note**: In Waveform synthesis mode, select the classic saw waveform for authentic analog character.
 
-#### [Square Wave]([ ](https://www.youtube.com/watch?v=v2LJ7Bk23kU)- The Hollow Character
+#### [Square Wave](https://www.youtube.com/watch?v=v2LJ7Bk23kU)- The Hollow Character
 - **Harmonic Content**: Odd harmonics only
 - **Character**: Hollow, woody, clarinet-like
 - **Best Used For**:
